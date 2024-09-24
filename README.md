@@ -1,5 +1,5 @@
 <h2 align='center'> chatgpt-tool-hub / ChatGPT工具引擎 </h2>
-<p align='center'>给ChatGPT装上手和脚，拿起工具提高你的生产力</p>
+<p align='center'>给ChatGPT戴上翅膀，提高你的生产力</p>
 
 <p align="center">
   <a style="text-decoration:none" href="https://github.com/goldfishh" target="_blank">
@@ -370,5 +370,3 @@ ChatGPT使用工具过程并不顺利：当遇到迭代次数到达预设值时�
 #### 3. [chatgpt-in-terminal](https://github.com/xiaoxx970/chatgpt-in-terminal)
 
 llm-os demo 改写自该项目
-
----
