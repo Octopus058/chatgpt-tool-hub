@@ -18,23 +18,23 @@
 
 ---
 
-简体中文 | [English](./docs/README_en.md)
+<div align="center">
+  
+**简体中文** | [English](./docs/README_en.md)
 
-> 大语言模型涌现能力让人惊艳，ChatGPT出现给NLP技术带来革命，除此之外还让我意识到一种新的人机交互的可能性
+</div>
+
+> 大语言模型涌现，能力让人惊艳。ChatGPT的出现给NLP技术带来革命，除此之外还让我意识到一种新的人机交互的可能性。
 
 <div>
     <h2 style="display:inline; margin:0; padding:0;">🌱 5.4 LLM-OS demo在线演示</h2>
+    <div align="center">
     <a style="display:inline-block; align:center" src="https://colab.research.google.com/assets/colab-badge.svg" href="https://colab.research.google.com/drive/11nYPGFCYiaZ73H8nTHSN8ifbo0u3W_8p">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="demo in Colab"/>
     </a>
-</div>
-
-<br/>
-
-<div align="center">
-    <a style="text-decoration:none" href="https://www.bilibili.com/video/BV1eL411h7Nk/" target="_blank">
-        <img src="https://i.328888.xyz/2023/04/29/iJQNi3.jpeg" width = "659" height = "410" alt="LLM-OS" align=center />
-    </a>
+    <br/>
+    <a style="text-decoration:none" href="https://www.bilibili.com/video/BV1eL411h7Nk/" target="_blank">  Bilibili 视频演示</a>
+    </div>
 </div>
 
 <br/>
