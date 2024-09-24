@@ -52,7 +52,7 @@ If ChatGPT's plugin is compared to Apple's App Store, then the ultimate form of 
 Given the current situation, the positioning of this project is: an open-source ChatGPT tool ecosystem where you can integrate tools with ChatGPT and use natural language to accomplish anything.
 
 <p align="center">
-  <img src="./assets/llm-os.jpg" width="50%" height="50%">
+  <img src="/assets/llm-os.jpg" width="50%" height="50%">
 </p>
 
 ## Features
@@ -350,7 +350,7 @@ I will update this section soon.
 #### If you want to further support the project author in reducing hair loss and working hard in development, you can give a cup to my partner who developed the project with me or to me alone ☕
 
 <table><tr>
-<td><img src="./assets/buy_me_a_coffee.jpg" width="200" height="200" border=0 /></td>
+<td><img src="/assets/buy_me_a_coffee.jpg" width="200" height="200" border=0 /></td>
 </tr></table> 
 
 ---
@@ -370,6 +370,3 @@ Inspired the cross platform implementation of browser tool, JSON communication o
 #### 3. [chatgpt-in-terminal](https://github.com/xiaoxx970/chatgpt-in-terminal)
 - wolfram-alpha(you need wolfram_alpha_appid from https://developer.wolframalpha.com/)
 - google-search(you need google_api_key and google_cse_id described here https://cloud.google.com/docs/authentication/api-keys?visit_id=638154342880239948-3750907574&rd=1&hl=zh-cn)
-
-
-## todo list
