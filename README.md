@@ -18,26 +18,25 @@
 
 ---
 
-简体中文 | [English](./docs/README_en.md)
+<div align="center">
 
-> 大语言模型涌现能力让人惊艳，ChatGPT出现给NLP技术带来革命，除此之外还让我意识到一种新的人机交互的可能性
+**简体中文** | [English](./docs/README_en.md)
+
+</div>
+
+> 大语言模型涌现，能力让人惊艳。ChatGPT的出现给NLP技术带来革命，除此之外还让我意识到一种新的人机交互的可能性。
 
 <div>
     <h2 style="display:inline; margin:0; padding:0;">🌱 5.4 LLM-OS demo在线演示</h2>
+  <div align="center">
     <a style="display:inline-block; align:center" src="https://colab.research.google.com/assets/colab-badge.svg" href="https://colab.research.google.com/drive/11nYPGFCYiaZ73H8nTHSN8ifbo0u3W_8p">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="demo in Colab"/>
     </a>
-</div>
-
+    <br/>
+    <a style="text-decoration:none" href="https://www.bilibili.com/video/BV1eL411h7Nk/" target="_blank">  Bilibili 视频演示</a>
 <br/>
-
-<div align="center">
-    <a style="text-decoration:none" href="https://www.bilibili.com/video/BV1eL411h7Nk/" target="_blank">
-        <img src="https://i.328888.xyz/2023/04/29/iJQNi3.jpeg" width = "659" height = "410" alt="LLM-OS" align=center />
-    </a>
 </div>
-
-<br/>
+</div>
 
 #### [更新日志](./docs/update_log.md) | [Q&A](./docs/q_and_a.md)
 
@@ -351,7 +350,6 @@ ChatGPT使用工具过程并不顺利：当遇到迭代次数到达预设值时�
 #### 如果你想进一步支持项目作者少掉头发，努力开发，可以给和我一起开发项目的伙伴 或 单独给我来杯 ☕
 
 <table><tr>
-<td><a href="https://public.zsxq.com/groups/88885848842852.html"><img src="https://github.com/zhayujie/chatgpt-on-wechat/blob/master/docs/images/planet.jpg?raw=true" width="400" height="200" border=0></a></td>
 <td><img src="./assets/buy_me_a_coffee.jpg" width="200" height="200" border=0 /></td>
 </tr></table> 
 
