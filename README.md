@@ -92,7 +92,7 @@ pip3 install -r requirements.txt
 
 #### (3). 重命名.env.template 和 config.json.template文件，去掉.template后缀 打开文件填入配置参数 
 
-`.env` 用于配置全局参数 文件配置示例
+`.env` 用于配置全局参数
 ```text
 LLM_API_KEY=sk-xx          // 必填，你的OPENAI API Key, 如何申请请见Q&A
 MODEL_NAME=gpt-3.5-turbo      // 选填，OPENAI LLM模型
@@ -102,7 +102,7 @@ PROXY=http://192.168.7.1:7890 // 选填，当你需要代理访问openai时可�
 DEBUG=false                   // 选填，debug模式
 ```
 
-`config.json` 用于配置工具参数 文件配置示例
+`config.json` 用于配置工具参数
 ```json
 {
   "tools": [],   // 填入你想用到的额外工具名
@@ -122,7 +122,7 @@ DEBUG=false                   // 选填，debug模式
 python3 terminal_io.py
 ```
 
-#### (5). 进入LLM-OS后你可以自行探索 或者进一步浏览详细教程：[LLM_OS demo使用说明](https://github.com/goldfishh/llm-os/blob/main/README.md)
+#### (5). 进入LLM-OS后你可以自行探索，或者进一步浏览详细教程：[LLM_OS demo使用说明](https://github.com/goldfishh/llm-os/blob/main/README.md)
 
 ---
 
